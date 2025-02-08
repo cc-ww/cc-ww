@@ -1,3 +1,4 @@
+[🇺🇸 English](./README.md) | [🇨🇳 中文](./README.zh-CN.md)
 <!--
 **cc-ww/cc-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
